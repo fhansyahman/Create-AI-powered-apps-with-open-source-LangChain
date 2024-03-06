@@ -11,7 +11,7 @@ Dan masih ada lagi! LangChain juga merupakan kunci Anda untuk menciptakan antarm
 Jadi, baik Anda seorang pengembang yang ingin membuat AI percakapan, atau ilmuwan data yang perlu mengekstrak informasi dari berbagai format dokumen, LangChain adalah pustaka Python yang menghidupkan tugas pemrosesan bahasa Anda.
 
 ## Mentee Information 
-- **Name:** Iqbal Maulana Kholidi
+- **Name:** Farhan Firmansyah
 - **Program:** IBM Advanced AI
 
 ## Table of Contents 
